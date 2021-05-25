@@ -39,5 +39,18 @@
   },
   "devDependencies": {
     "@types/google-libphonenumber": "^7.4.17"
+  },
+  "main": "bundles/ion-intl-tel-input.umd.js",
+  "module": "fesm5/ion-intl-tel-input.js",
+  "es2015": "fesm2015/ion-intl-tel-input.js",
+  "esm5": "esm5/ion-intl-tel-input.js",
+  "esm2015": "esm2015/ion-intl-tel-input.js",
+  "fesm5": "fesm5/ion-intl-tel-input.js",
+  "fesm2015": "fesm2015/ion-intl-tel-input.js",
+  "typings": "ion-intl-tel-input.d.ts",
+  "metadata": "ion-intl-tel-input.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
   }
 }
