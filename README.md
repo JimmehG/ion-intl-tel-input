@@ -1,5 +1,7 @@
 # Interstellus Ionic International Telephone Input
 
+Changed by James Gronowski [(github.com/JimmehG)](https://github.com/JimmehG) to add the scss variable --flag-code-gap
+
 An Ionic component for International Phone Number Input, that allows all countries, validation with google phone lib, limited countries, preferred countries, virtual scrolling and much more.
 
 ## Contents

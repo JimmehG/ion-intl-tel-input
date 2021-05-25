@@ -38,6 +38,6 @@
     }
 
     .flag-icon {
-        margin-right: 5px;
+        margin-right: var(--flag-code-gap, 5);
     }
 }
